@@ -1,0 +1,11 @@
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\bin\Debug\Nguyễn Như Vinh -62Th1-BTL.exe.config
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\bin\Debug\Nguyễn Như Vinh -62Th1-BTL.exe
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\bin\Debug\Nguyễn Như Vinh -62Th1-BTL.pdb
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\obj\Debug\Nguyễn Như Vinh -62Th1-BTL.csproj.AssemblyReference.cache
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\obj\Debug\Nguyễn Như Vinh -62Th1-BTL.csproj.SuggestedBindingRedirects.cache
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\obj\Debug\Nguyễn_Như_Vinh__62Th1_BTL.Form1.resources
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\obj\Debug\Nguyễn_Như_Vinh__62Th1_BTL.Properties.Resources.resources
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\obj\Debug\Nguyễn Như Vinh -62Th1-BTL.csproj.GenerateResource.cache
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\obj\Debug\Nguyễn Như Vinh -62Th1-BTL.csproj.CoreCompileInputs.cache
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\obj\Debug\Nguyễn Như Vinh -62Th1-BTL.exe
+D:\Window Form\Nguyễn Như Vinh -62Th1-BTL\Nguyễn Như Vinh -62Th1-BTL\obj\Debug\Nguyễn Như Vinh -62Th1-BTL.pdb
